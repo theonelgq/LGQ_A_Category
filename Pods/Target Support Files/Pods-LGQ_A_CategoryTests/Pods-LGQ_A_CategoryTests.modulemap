@@ -1,0 +1,6 @@
+framework module Pods_LGQ_A_CategoryTests {
+  umbrella header "Pods-LGQ_A_CategoryTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

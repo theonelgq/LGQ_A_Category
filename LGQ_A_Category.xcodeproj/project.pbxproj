@@ -149,7 +149,7 @@
 		8DE1EED724BD5CCF0042042B /* LGQ_A_Category */ = {
 			isa = PBXGroup;
 			children = (
-				8DE1EF1024BD66D10042042B /* Classes */,
+				8DE1EF1024BD66D10042042B /* podsClass */,
 				8DE1EED824BD5CCF0042042B /* AppDelegate.h */,
 				8DE1EED924BD5CCF0042042B /* AppDelegate.m */,
 				8DE1EEDB24BD5CCF0042042B /* SceneDelegate.h */,
@@ -184,13 +184,13 @@
 			path = LGQ_A_CategoryUITests;
 			sourceTree = "<group>";
 		};
-		8DE1EF1024BD66D10042042B /* Classes */ = {
+		8DE1EF1024BD66D10042042B /* podsClass */ = {
 			isa = PBXGroup;
 			children = (
 				8DE1EF1124BD6B8C0042042B /* CTMediator+LGQ_A.h */,
 				8DE1EF1224BD6B8C0042042B /* CTMediator+LGQ_A.m */,
 			);
-			path = Classes;
+			path = podsClass;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */

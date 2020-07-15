@@ -80,7 +80,7 @@ Pod::Spec.new do |spec|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  spec.source       = { :git => "https://github.com/theonelgq/LGQ_A_Category.git", :commit => "565110ce540fd19a7812b0f202a9f7b82d00c117" }
+  spec.source       = { :git => "https://github.com/theonelgq/LGQ_A_Category.git", :tag => "#{spec.version}" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
@@ -91,7 +91,7 @@ Pod::Spec.new do |spec|
   #  Not including the public_header_files will make all headers public.
   #
 
-  spec.source_files  = "LGQ_A_Category/podsClass/.{h,m}"
+  spec.source_files  = "LGQ_A_Category/podsClass/**/*.{h,m}"
   #spec.exclude_files = "Classes/Exclude"
 
   # spec.public_header_files = "Classes/**/*.h"

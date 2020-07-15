@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "LGQ_A_Category"
-  spec.version      = "0.0.4"
+  spec.version      = "0.0.5"
   spec.summary      = "A业务组分类"
 
   # This description is used to generate tags and improve search results.
@@ -91,7 +91,7 @@ Pod::Spec.new do |spec|
   #  Not including the public_header_files will make all headers public.
   #
 
-  spec.source_files  = "LGQ_A_Category/Classes/*.{h,m}"
+  spec.source_files  = "LGQ_A_Category/Classes/**/*.{h,m}"
   #spec.exclude_files = "Classes/Exclude"
 
   # spec.public_header_files = "Classes/**/*.h"

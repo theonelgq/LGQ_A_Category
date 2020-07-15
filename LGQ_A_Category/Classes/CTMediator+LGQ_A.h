@@ -11,6 +11,7 @@
 NS_ASSUME_NONNULL_BEGIN
 
 @interface CTMediator (LGQ_A)
+
 - (UIViewController *)A_aViewController;
 @end
 

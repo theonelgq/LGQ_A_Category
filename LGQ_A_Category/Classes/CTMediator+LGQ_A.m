@@ -11,6 +11,7 @@
 @implementation CTMediator (LGQ_A)
 - (UIViewController *)A_aViewController
 {
+    
     /*
         AViewController *viewController = [[AViewController alloc] init];
      */
